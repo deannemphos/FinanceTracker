@@ -2,9 +2,10 @@
 A finance tracker and budgeting tool built entirely in Rust using the Plaid API
 
 ## Planned Features
-- View recent transactions
+- View recent transactions and current balances
 - Set budgeting goals
 - Analyze spending habits over time
+- View progress on multiple accounts 
 
 ## TODO: 
 - [x] Initial design phase & structure outline
