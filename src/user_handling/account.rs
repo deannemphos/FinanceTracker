@@ -9,7 +9,7 @@ pub struct Account {
     pub name: String,
     pub balance: f64,                   // 64bit float for theoretical billionaires using the app
     pub spending_limit: f64,            // 64bit float for theoretical billionaires using the app
-    pub transactions: Vec<f64>,
+    pub transactions: Vec<Transaction>,
     pub account_type: AccountTypes
 }
 
