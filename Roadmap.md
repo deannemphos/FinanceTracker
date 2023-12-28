@@ -3,7 +3,7 @@
    - [x] Create user struct
    - [x] Create account struct
    - [x] Create transaction struct
-   - [x] Create budget struct
+   - [ ] Create budget struct
    - [ ] Create category struct
 2. Add functions for income and spending for each account
 3. Build JSON "database"
